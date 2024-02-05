@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.cebc7830.css",
+    "main.js": "/portfolio/static/js/main.c8701604.js",
+    "static/media/paper_fibers.png": "/portfolio/static/media/paper_fibers.b02a5fc873ec476f49a8.png",
+    "index.html": "/portfolio/index.html",
+    "main.cebc7830.css.map": "/portfolio/static/css/main.cebc7830.css.map",
+    "main.c8701604.js.map": "/portfolio/static/js/main.c8701604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cebc7830.css",
+    "static/js/main.c8701604.js"
+  ]
+}
